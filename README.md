@@ -10,7 +10,7 @@
 # SSHFS-Win Manager
 
 ## Introduction 
-SSHFS-Win Manager is a GUI (graphics user interface) for SSHFS on Windows (comming soon for other platforms).
+SSHFS-Win Manager is a GUI (graphics user interface) for SSHFS on Windows (coming soon for other platforms).
 
 ## Installation
 **Step 1**  
